@@ -1,6 +1,9 @@
 # Junior Naver (KOR)
 
 This project is a recreation of Junior Naver website (https://jr.naver.com/) using java GUI. 
+
+Features: Sign in page (sign up, sign in, sign out, delete account), 
+
 Jr. Naver is a Korean website created by Naver corp that is designed for younger children to enjoy various content that ranges from education to games.
 In this project, I focused on recreating certain functions instead of the entire website, such as login, sign-up, delete account, logout, six different games, and ranking. 
 
